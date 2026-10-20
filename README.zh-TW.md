@@ -7,7 +7,10 @@
 > 專為研究 Instagram 類型社群架構之 Session 管理、Playwright 瀏覽器自動化、HTTP 請求鏈路、批次按讚、資料庫併發寫入與限流機制所建立的本地沙盒系統
 
 <p align="center">
-  [GitHub](https://github.com/ReiKama414/social-engagement-lab) · [個人網站](https://reikama414.vercel.app/) · [快速開始](#快速開始) · [授權](#授權)
+  <a href="https://github.com/ReiKama414/social-engagement-lab">GitHub</a> ·
+  <a href="https://reikama414.vercel.app/">個人網站</a> ·
+  <a href="#快速開始">快速開始</a> ·
+  <a href="#授權">授權</a>
 </p>
 
 ---

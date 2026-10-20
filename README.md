@@ -7,7 +7,10 @@
 > Built to study session management, Playwright browser automation, HTTP request chains, batch likes, concurrent database writes, and rate limiting on a mock Instagram-like stack—entirely on your machine.
 
 <p align="center">
-  [GitHub](https://github.com/ReiKama414/social-engagement-lab) · [Portfolio](https://reikama414.vercel.app/) · [Quick start](#quick-start) · [License](#license)
+  <a href="https://github.com/ReiKama414/social-engagement-lab">GitHub</a> ·
+  <a href="https://reikama414.vercel.app/">Portfolio</a> ·
+  <a href="#quick-start">Quick start</a> ·
+  <a href="#license">License</a>
 </p>
 
 ---
