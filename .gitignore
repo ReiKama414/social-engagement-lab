@@ -1,0 +1,64 @@
+# --- Secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Python / backend ---
+backend/venv/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.log
+
+# SQLite & local data
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+backend/lab.db*
+
+# Playwright screenshots / artifacts
+backend/app/screenshots/
+test-results/
+playwright-report/
+blob-report/
+
+# --- Node / frontend ---
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/coverage/
+frontend/.vercel
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# --- Scratch / local ---
+scratch/
+*.pem
